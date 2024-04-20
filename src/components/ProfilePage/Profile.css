@@ -1,0 +1,35 @@
+/* ProfilePage.css */
+.profile-page {
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-page form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .profile-page form div {
+    margin-bottom: 10px;
+  }
+  
+  .profile-page form label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .profile-page form input {
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+  }
+  
+  .profile-page form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }

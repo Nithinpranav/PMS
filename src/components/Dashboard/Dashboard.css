@@ -1,0 +1,22 @@
+/* Dashboard.css */
+.dashboard {
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .appointments {
+    margin-top: 20px;
+  }
+  
+  .appointments ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .appointments li {
+    padding: 10px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
